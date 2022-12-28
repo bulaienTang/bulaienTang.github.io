@@ -2,7 +2,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "Yiqiao Jin (Ahren) is a Ph.D. student at Georgia Institute of Technology, advised by Professor Wei Xu.\nHe is working as a graduate research assistant at NLP X Lab.\nPreviously, he was working as a research intern at Microsoft Research Asia (MSRA), Social Computing Group, directed by Dr. Xing Xie. He is mentored by Dr. Xiting Wang and lead research projects on Fake News Detection, Explainable NLP, Low-Resource Machine Learning, and Recommendation.\nYiqiao also worked as an undergraduate research assistant at Scalable Analytics Institute (ScAi) under the mentorship of Prof. Yizhou Sun and Prof. Wei Wang.\n  Download my resumé.\n",
+    "content": "Jingchen Tang (Ahren) is a Ph.D. student at Georgia Institute of Technology, advised by Professor Wei Xu.\nHe is working as a graduate research assistant at NLP X Lab.\nPreviously, he was working as a research intern at Microsoft Research Asia (MSRA), Social Computing Group, directed by Dr. Xing Xie. He is mentored by Dr. Xiting Wang and lead research projects on Fake News Detection, Explainable NLP, Low-Resource Machine Learning, and Recommendation.\nYiqiao also worked as an undergraduate research assistant at Scalable Analytics Institute (ScAi) under the mentorship of Prof. Yizhou Sun and Prof. Wei Wang.\n  Download my resumé.\n",
     "date": 1653004800,
     "expirydate": -62135596800,
     "kind": "term",
@@ -13,9 +13,9 @@
     "publishdate": "0001-01-01T00:00:00Z",
     "relpermalink": "",
     "section": "authors",
-    "summary": "Yiqiao Jin (Ahren) is a Ph.D. student at Georgia Institute of Technology, advised by Professor Wei Xu.\nHe is working as a graduate research assistant at NLP X Lab.\nPreviously, he was working as a research intern at Microsoft Research Asia (MSRA), Social Computing Group, directed by Dr.",
+    "summary": "Jingchen Tang (Ahren) is a Ph.D. student at Georgia Institute of Technology, advised by Professor Wei Xu.\nHe is working as a graduate research assistant at NLP X Lab.\nPreviously, he was working as a research intern at Microsoft Research Asia (MSRA), Social Computing Group, directed by Dr.",
     "tags": null,
-    "title": "Yiqiao Jin",
+    "title": "Jingchen Tang",
     "type": "authors"
   },
   {
@@ -134,7 +134,7 @@
   },
   {
     "authors": [
-      "Yiqiao Jin",
+      "Jingchen Tang",
       "Xiting Wang",
       "Yaru Hao",
       "Yizhou Sun",
@@ -161,7 +161,7 @@
     "authors": [
       "Ruichao Yang",
       "Xiting Wang",
-      "Yiqiao Jin",
+      "Jingchen Tang",
       "Chaozhuo Li",
       "Jianxun Lian",
       "Xing Xie"
@@ -184,9 +184,9 @@
     "type": "publication"
   },
   {
-    "authors": ["Yiqiao Jin"],
+    "authors": ["Jingchen Tang"],
     "categories": ["Research", "NLP"],
-    "content": "Preprint.\nAuthors Yiqiao Jin1, Xiting Wang2, Yaru Hao2, Yizhou Sun1, Xing Xie2\n1University of California, Los Angeles, 2Microsoft Research Asia\nAbstract We move towards combining large parametric models with non-parametric prototypical networks. We propose prototypical fine-tuning, a novel prototypical framework for fine-tuning pretrained language models (LM), which automatically learns a bias to improve predictive performance for varying data sizes, especially low-resource settings. Our prototypical fine-tuning approach can automatically adjust the model capacity according to the data complexity and the model’s inherent attributes. Moreover, we propose four principles for effective prototype fine-tuning towards the global optimum. Experimental results across various datasets show that our work achieves significant performance improvements under various low-resource settings, as well as comparable and usually better performances in high-resource scenarios.\ns\u0026lt;!– ## Get Started   The template is mobile first with a responsive design to ensure that your site looks stunning on every device. \nLicense Copyright 2022-present Yiqiao Jin.\nReleased under the MIT license.\n",
+    "content": "Preprint.\nAuthors Jingchen Tang1, Xiting Wang2, Yaru Hao2, Yizhou Sun1, Xing Xie2\n1University of California, Los Angeles, 2Microsoft Research Asia\nAbstract We move towards combining large parametric models with non-parametric prototypical networks. We propose prototypical fine-tuning, a novel prototypical framework for fine-tuning pretrained language models (LM), which automatically learns a bias to improve predictive performance for varying data sizes, especially low-resource settings. Our prototypical fine-tuning approach can automatically adjust the model capacity according to the data complexity and the model’s inherent attributes. Moreover, we propose four principles for effective prototype fine-tuning towards the global optimum. Experimental results across various datasets show that our work achieves significant performance improvements under various low-resource settings, as well as comparable and usually better performances in high-resource scenarios.\ns\u0026lt;!– ## Get Started   The template is mobile first with a responsive design to ensure that your site looks stunning on every device. \nLicense Copyright 2022-present Jingchen Tang.\nReleased under the MIT license.\n",
     "date": 1652140800,
     "expirydate": -62135596800,
     "kind": "page",
@@ -204,7 +204,7 @@
   },
   {
     "authors": [
-      "Yiqiao Jin",
+      "Jingchen Tang",
       "Xiting Wang",
       "Ruichao Yang",
       "Yizhou Sun",

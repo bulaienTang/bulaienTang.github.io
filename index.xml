@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yiqiao Jin | Gatech</title>
+    <title>Jingchen Tang | Gatech</title>
     <link>https://ahren09.github.io/</link>
       <atom:link href="https://ahren09.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yiqiao Jin | Gatech</description>
+    <description>Jingchen Tang | Gatech</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ahren09.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Yiqiao Jin | Gatech</title>
+      <title>Jingchen Tang | Gatech</title>
       <link>https://ahren09.github.io/</link>
     </image>
     
@@ -170,7 +170,7 @@
       <guid>https://ahren09.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;Preprint.&lt;/p&gt;
 &lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
-&lt;p&gt;Yiqiao Jin&lt;sup&gt;1&lt;/sup&gt;, Xiting Wang&lt;sup&gt;2&lt;/sup&gt;, Yaru Hao&lt;sup&gt;2&lt;/sup&gt;, Yizhou Sun&lt;sup&gt;1&lt;/sup&gt;, Xing Xie&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Jingchen Tang&lt;sup&gt;1&lt;/sup&gt;, Xiting Wang&lt;sup&gt;2&lt;/sup&gt;, Yaru Hao&lt;sup&gt;2&lt;/sup&gt;, Yizhou Sun&lt;sup&gt;1&lt;/sup&gt;, Xing Xie&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;&lt;sup&gt;1&lt;/sup&gt;University of California, Los Angeles,
 &lt;sup&gt;2&lt;/sup&gt;Microsoft Research Asia&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
@@ -198,7 +198,7 @@
       The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2022-present &lt;a href=&#34;https://ahren09.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yiqiao Jin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Copyright 2022-present &lt;a href=&#34;https://ahren09.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jingchen Tang&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>
